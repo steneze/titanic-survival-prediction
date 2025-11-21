@@ -4,7 +4,7 @@ Analyse complète et modélisation Machine Learning pour prédire la survie des 
 
 **Score Kaggle : 78.7% (Top 15% - Rang 2146/14636)**
 
-![Kaggle Score](images/kaggle_score.png)
+![Kaggle Score](images/Kaggle_score.png)
 
 ---
 

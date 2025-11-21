@@ -4,7 +4,7 @@ A comprehensive Machine Learning analysis and modeling project to predict Titani
 
 **Kaggle Score: 78.7% (Top 15% - Rank 2,146/14,636)**
 
-![Kaggle Score](images/kaggle_score.png)
+![Kaggle Score](images/Kaggle_score.png)
 
 ---
 
