@@ -51,7 +51,7 @@ titanic-survival-prediction/
 - **Men**: 19% survival rate
 - Confirms the "Women and children first" protocol
 
-![Survival by Sex](images/survival_by_sex.png)
+![Survival by Sex](images/TauxSurvie_FeatureCat.png))
 
 ### 2. Social Class Plays a Major Role
 - **1st Class**: 63% survival
@@ -202,15 +202,6 @@ jupyter notebook
 4. **Domain Knowledge is Crucial**
    - "Women and children first" → Woman_or_Child feature
    - Historical context guides feature engineering
-
----
-
-## 🔮 Future Improvements
-
-- [ ] External features (nationality, ticket groups)
-- [ ] Deep Learning (Neural Networks)
-- [ ] Stacking with meta-features
-- [ ] Automated feature selection (SHAP, permutation importance)
 
 ---
 

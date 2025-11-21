@@ -49,7 +49,7 @@ Ce projet explore le célèbre dataset Titanic de Kaggle avec une approche méth
 - **Hommes** : 19% de survie
 - Confirme la règle "Women and children first"
 
-![Survival by Sex](images/survival_by_sex.png)
+![Survival by Sex](images/TauxSurvie_FeatureCat.png)
 
 ### 2. La Classe Sociale Joue un Rôle Majeur
 - **1ère classe** : 63% de survie
@@ -174,15 +174,6 @@ Top 12 % after removing the 100% scores, obvious cheaters. ;-)
 4. **Domain Knowledge Crucial**
    - "Women and children first" → Feature Woman_or_Child
    - Contexte historique guide feature engineering
-
----
-
-## 🔮 Améliorations Futures
-
-- [ ] Features externes (nationalité, groupes de tickets)
-- [ ] Deep Learning (Neural Networks)
-- [ ] Stacking avec méta-features
-- [ ] Feature selection automatique (SHAP, permutation importance)
 
 ---
 
